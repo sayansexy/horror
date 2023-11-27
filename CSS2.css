@@ -1,0 +1,49 @@
+.log{
+    display: flex;
+    color:mediumblue;
+    border: 2px solid red;
+    font-size: 40px;
+    background-color: black;
+}
+.toy{
+    color: white;
+    width: 500px;
+    border: 2px solid blue;
+    background-color: black;
+}
+h3{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+#sya{
+    position: fixed;
+}
+p{
+    color:red;
+    font-size: 30px;
+}
+.key{
+    display: flex;
+}
+.fox{
+    position: fixed;
+}
+h1{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+.tx{
+    color: white;
+}
+*{
+    background-color: black;
+}
+button{
+    color: white;
+    text-align: center;
+}
+p2{
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#sya{
+    position: fixed;
+}
+span{
+    display: flex;
+}
+.horror{
+    color:white;
+    width:500px;
+    margin:20px;
+    border: 2px solid black;
+    align-items:start;
+    border: 2px solid blue;
+}
+h1{
+    color-scheme:initial ;
+    color: blue;
+}
+p{
+    color: red;
+}
+.logo,h2{
+    display: flex;
+    color:mediumblue;
+    border: 2px solid red;
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    color:cyan;
+}
+button{
+    color: white;
+    text-align: center;
+}
+h6{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+.text{
+    font-size: 40px;
+}
